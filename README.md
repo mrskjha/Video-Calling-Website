@@ -16,10 +16,6 @@ A real-time video call application built using React and WebRTC, with features l
 - **Video Communication**: WebRTC
 - **State Management**: React hooks
 
-## Screenshots
-
-### Main Room Page
-![Room Page](path_to_screenshot)
 
 ## Getting Started
 
@@ -89,5 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Sunny** - [YourEmail@example.com](mailto:YourEmail@example.com)
-- Project Link: [https://github.com/your-username/video-call-app](https://github.com/your-username/video-call-app)
+- **Sunny** - [jhasunny550@gmail.com](jhasunny550@gmail.com)
