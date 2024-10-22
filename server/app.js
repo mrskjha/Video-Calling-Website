@@ -1,11 +1,12 @@
 
 const express = require("express");
+const cors = require('cors');
 const bodyParser = require("body-parser");
 const { Server } = require("socket.io");
 
 const io = new Server({ cors: true });
 const app = express();
-
+app.use(cors());
 
 console.log(process.env) // 
 const port = process.env.PORT || 5000;
