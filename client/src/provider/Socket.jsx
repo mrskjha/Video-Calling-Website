@@ -8,7 +8,7 @@ export const useSocket = () => {
 }
 
 export const SocketProvider = ({ children }) => {
-    const socket = useMemo(() => io('http://localhost:5001'), []);
+    const socket = useMemo(() => io('https://video-calling-website-0e87.onrender.com'), []);
 
     return (
         <SocketContext.Provider value={socket}>
